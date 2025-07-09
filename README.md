@@ -1,0 +1,1 @@
+Dieses Repository stellt die im Rahmen der Bachelorarbeit "Generative KI in Bildungskontexten: Eine Analyse auftretender Diskriminierung und ihrer Implikationen am Beispiel von ChatGPT" Beispiele öffentlich zugänglich zu machen. Die Beispiele befinden sich in der Datei Beispiele.pdf
